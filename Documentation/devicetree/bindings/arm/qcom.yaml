@@ -257,6 +257,7 @@ properties:
               - xiaomi,mido
               - xiaomi,tissot
               - xiaomi,vince
+              - xiaomi,whyred
           - const: qcom,msm8953
 
       - items:
